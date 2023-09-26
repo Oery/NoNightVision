@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.oery.nonightvision.mixins",
+  "mixins": [
+    "MixinEntityRenderer"
+  ]
+}
